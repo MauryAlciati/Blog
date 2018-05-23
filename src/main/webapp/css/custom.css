@@ -1,0 +1,33 @@
+/*
+body {
+	background: url('http://www.progettodanza.biz/wp-content/uploads/2015/07/cropped-Giochi-gratis-di-luce-colore-struttura-fondo-Sfondi-Widescreen.jpg') fixed;
+	background-repeat: no-repeat;
+}
+*/
+
+*[role="form"] {
+	max-width: 530px;
+	padding: 15px;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 0.3em;
+}
+
+*[role="form"] h2 {
+	margin-left: 5em;
+	margin-bottom: 1em;
+}
+span.obb{
+	color: red;
+}
+
+#login{
+	margin: 10px 0;
+	margin-left: 5px;
+}
+#logo{
+	width: 32px;
+	height: 32px;
+	margin-top: 10px;
+	margin-right: 15px;
+}
